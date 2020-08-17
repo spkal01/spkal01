@@ -20,7 +20,7 @@
 
 <br>
 
-  <a href="https://www.instagram.com/thedudethatcode/">
+  <a href="https://www.instagram.com/spkal01/">
     <img align="left" alt="spkal01 | Instagram" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:spkal01@outlook.com">
